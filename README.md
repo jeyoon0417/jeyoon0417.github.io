@@ -10,6 +10,7 @@
 - `privacy.html` 개인정보처리방침 (모든 게임 공통)
 - `icon-192.png`, `icon-512.png` JamesWorks 로고
 - `orak-icon.png` 오르락내리락 카드 아이콘
+- `ic-game.png`, `ic-group.png`, `ic-wrench.png` 픽셀 아이콘
 
 ## 도메인 연결 (예: jamesworks.kr)
 
